@@ -1,2 +1,3 @@
 # weblayout-Huston
-Creation of first weblayout from stepik course https://stepik.org/lesson/180350/step/1?unit=154968
+Creating of first weblayout from stepik course
+This project was created according to the layout attached in the pdf file 'Хюстон - макет'
